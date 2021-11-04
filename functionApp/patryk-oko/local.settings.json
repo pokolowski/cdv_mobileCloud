@@ -1,0 +1,21 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "WEBSITE_RUN_FROM_PACKAGE": "1",
+    "REMOTEDEBUGGINGVERSION": "16.0.30709.132",
+    "FUNCTIONS_RUNTIME_SCALE_MONITORING_ENABLED": "0",
+    "WEBSITE_NODE_DEFAULT_VERSION": "14.16.0",
+    "PeopleDb": "Data Source=tcp:patrykokodb.database.windows.net,1433;Initial Catalog=patryk-okoDB;User Id=pokolowski;Password=UczMoHalo^;",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=storageaccountcdva8a5;AccountKey=JD/IbqZz//lAFEkormnfP5sp3mteRZj/cRp743+/pohAjFoxjILay4GlGIFnSH92P+h9HSLiq77aw5eQypPzGQ==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "patryk-oko9584",
+    "WEBSITE_AUTH_AUTO_AAD": "False",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "WEBSITE_SITE_NAME": "patryk-oko",
+    "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storageaccountcdva8a5;AccountKey=JD/IbqZz//lAFEkormnfP5sp3mteRZj/cRp743+/pohAjFoxjILay4GlGIFnSH92P+h9HSLiq77aw5eQypPzGQ==;EndpointSuffix=core.windows.net"
+  }
+}
